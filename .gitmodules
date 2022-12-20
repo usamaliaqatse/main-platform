@@ -1,0 +1,6 @@
+[submodule "Kpi-Backend"]
+	path = Kpi-Backend
+	url = https://github.com/usamaliaqatse/Kpi-Backend.git
+[submodule "Kpi-Frontend"]
+	path = Kpi-Frontend
+	url = https://github.com/usamaliaqatse/Kpi-Frontend.git
